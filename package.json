@@ -1,6 +1,6 @@
 {
   "name": "heat-shield",
-  "version": "1.0.17-beta",
+  "version": "1.0.18-beta",
   "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
   "main": "lib/index.js",
   "bin": "bin/heat-shield",
