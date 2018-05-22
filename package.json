@@ -1,0 +1,31 @@
+{
+  "name": "heat-shield",
+  "version": "1.0.1",
+  "description": "The audit command submits a description of the dependencies configured in your project to your default registry and asks for a report of known vulnerabilities. The report returned includes instructions on how to act on this information. Heat-shield automatically solves these security vulnerabilities by suggested patches.",
+  "main": "./lib/index.js",
+  "bin": "./bin/heat-shield",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoschu/io.server360.node.heat-shield.git"
+  },
+  "keywords": [
+    "npm",
+    "audit"
+  ],
+  "author": "Tom S. <thoschulte@gmail.com> (https://www.thomas-schulte.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoschu/io.server360.node.heat-shield/issues"
+  },
+  "homepage": "https://github.com/thoschu/io.server360.node.heat-shield#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "shelljs": "^0.8.2"
+  }
+}
