@@ -1,9 +1,12 @@
 {
   "name": "heat-shield",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
   "main": "lib/index.js",
   "bin": "bin/heat-shield",
+  "engines": {
+    "node": ">=6.1.0"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
