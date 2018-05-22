@@ -1,11 +1,11 @@
 {
   "name": "heat-shield",
-  "version": "1.0.1",
-  "description": "The audit command submits a description of the dependencies configured in your project to your default registry and asks for a report of known vulnerabilities. The report returned includes instructions on how to act on this information. Heat-shield automatically solves these security vulnerabilities by suggested patches.",
-  "main": "./lib/index.js",
-  "bin": "./bin/heat-shield",
+  "version": "1.0.8",
+  "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
+  "main": "lib/index.js",
+  "bin": "bin/heat-shield",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
