@@ -1,6 +1,6 @@
 {
   "name": "heat-shield",
-  "version": "1.13.0",
+  "version": "1.16.0",
   "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
   "private": false,
   "main": "index.js",
