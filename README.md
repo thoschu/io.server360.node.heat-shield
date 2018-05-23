@@ -47,7 +47,7 @@ $ npm install heat-shield
 $ npm install -g heat-shield 
 ```
 
-### After that you’re able to count from the command line:
+### After that you’re able to execute `heat-shield` from the command line:
 (Please note, you have to be in the directory with the npm-shrinkwrap.json or package-lock.json.)
 ```bash
 $ heat-shield
