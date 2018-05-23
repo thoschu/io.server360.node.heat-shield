@@ -33,6 +33,7 @@ $ npm install heat-shield
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "fix": "heat-shield",
     "postinstall": "heat-shield"
   },
 ...
