@@ -1,5 +1,6 @@
-heat-shield
+heat-shield 
 =========
+(lost in beta)
 
 [![npm version](https://badge.fury.io/js/heat-shield.svg)](https://badge.fury.io/js/heat-shield)
 [![Dependency Status](https://david-dm.org/thoschu/io.server360.node.heat-shield.svg)](https://david-dm.org/thoschu/io.server360.node.heat-shield)
