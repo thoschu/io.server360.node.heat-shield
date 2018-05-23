@@ -1,8 +1,8 @@
 {
   "name": "heat-shield",
-  "version": "1.1.0",
+  "version": "1.4.0",
   "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
-  "private": true,
+  "private": false,
   "main": "index.js",
   "bin": "bin/heat-shield",
   "engines": {
@@ -18,7 +18,10 @@
   },
   "keywords": [
     "npm",
-    "audit"
+    "audit",
+    "security",
+    "vulnerabilities",
+    "fix"
   ],
   "author": "Tom S. <thoschulte@gmail.com> (https://www.thomas-schulte.de)",
   "license": "MIT",
