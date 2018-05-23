@@ -1,0 +1,40 @@
+{
+  "name": "heat-shield",
+  "version": "1.1.0",
+  "description": "Heat-shield automatically solves security vulnerabilities by suggested patches.",
+  "private": true,
+  "main": "index.js",
+  "bin": "bin/heat-shield",
+  "engines": {
+    "node": ">=6.1.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoschu/io.server360.node.heat-shield.git"
+  },
+  "keywords": [
+    "npm",
+    "audit"
+  ],
+  "author": "Tom S. <thoschulte@gmail.com> (https://www.thomas-schulte.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thoschu/io.server360.node.heat-shield/issues"
+  },
+  "homepage": "https://github.com/thoschu/io.server360.node.heat-shield#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "moment": "^2.22.1",
+    "npm": "^6.0.1",
+    "ramda": "^0.25.0",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
