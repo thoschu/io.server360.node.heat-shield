@@ -1,4 +1,4 @@
-heat-shield (io.server360.node.heat-shield)
+heat-shield
 =========
 
 [![npm version](https://badge.fury.io/js/heat-shield.svg)](https://badge.fury.io/js/heat-shield)
@@ -57,3 +57,17 @@ $ heat-shield
 
 ## Contributing
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
+
+***
+
+## NPM
+
+[https://www.npmjs.com/package/heat-shield](https://www.npmjs.com/package/heat-shield)
+
+***
+
+## GitHub
+
+[https://github.com/thoschu/io.server360.node.heat-shield](https://github.com/thoschu/io.server360.node.heat-shield)
+
+***
