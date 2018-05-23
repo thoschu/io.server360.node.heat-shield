@@ -6,7 +6,8 @@ heat-shield
 [![Dev Dependency Status](https://david-dm.org/thoschu/io.server360.node.heat-shield/dev-status.svg)](https://david-dm.org/thoschu/io.server360.node.heat-shield?type=dev)
 [![Build Status](https://travis-ci.org/thoschu/io.server360.node.heat-shield.svg?branch=master)](https://travis-ci.org/thoschu/io.server360.node.heat-shield)
 [![Coverage Status](https://coveralls.io/repos/github/thoschu/io.server360.node.heat-shield/badge.svg?branch=feature%2Finitial)](https://coveralls.io/github/thoschu/io.server360.node.heat-shield?branch=feature%2Finitial)
-[![Code Climate](https://codeclimate.com/github/thoschu/io.server360.node.heat-shield/badges/gpa.svg)](https://codeclimate.com/github/thoschu/io.server360.node.heat-shield)
+[![Maintainability](https://api.codeclimate.com/v1/badges/bfdfba1769e771f614d1/maintainability)](https://codeclimate.com/github/thoschu/io.server360.node.heat-shield/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/bfdfba1769e771f614d1/test_coverage)](https://codeclimate.com/github/thoschu/io.server360.node.heat-shield/test_coverage)
 [![GitHub issues](https://img.shields.io/github/issues/thoschu/io.server360.node.heat-shield.svg)](https://github.com/thoschu/io.server360.node.heat-shield/issues)
 [![GitHub license](https://img.shields.io/github/license/thoschu/io.server360.node.heat-shield.svg)](https://github.com/thoschu/io.server360.node.heat-shield/blob/master/LICENSE)
 
